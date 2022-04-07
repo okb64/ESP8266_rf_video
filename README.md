@@ -4,4 +4,4 @@ This code is a modification of the amazing [apple II emulator](https://github.co
 video output by Hrvoje Čavrak. It has functions to display lines and text with a font rom.  
 It has only beentested on the wemos D1 mini with PAL video, but should work on NTSC two with the addition of #define NTSC on
 [generate_video](wemosTv_display_dfb_clean/generate_video.c).  
-The default code displays Hellow world! at thetop left corner of the screen.
+The default code displays Hellow world! at the top left corner of the screen.
